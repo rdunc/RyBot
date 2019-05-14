@@ -1,7 +1,7 @@
 ## What is RyBot?
 This project is no longer maintained, and might not work right out of the box. It is recommended not to use this in production, this was just a test project.
 
-RyBot is a simple Twitch IRC bot that I made in Python. RyBot comes equipped with an simple economy system to distribute points to all people that visited your channel. Feel free to build off this and let me know what you come up with. Please take into account that this bot is still in development, so you may run into bugs and or other unforseen issues while using this.
+RyBot is a simple Twitch IRC bot that I made in Python. RyBot comes equipped with an simple economy system to distribute points to all people that visited your channel. Feel free to build off this and let me know what you come up with.
 
 ## Getting started
 Before you can run RyBot you need to install its dependencies.
