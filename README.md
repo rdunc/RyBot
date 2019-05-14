@@ -28,9 +28,3 @@ The commands are pretty basic right now. To run any of these commands you must t
 * ```!command new !<syntax> <response>``` - This will create a new command. Replace syntax with the name of your command (such as !welcome) and the response to whatever you want to be said in chat (such as Welcome to my channel! Don't forget to follow!). In this example when somebody types !welcome in chat, the bot will respond with 'Welcome to my channel! Don't forget to follow!'
 
 * ```!<syntax>``` - Runs a command'
-
-## Not working? Having issues?
-[Create an issue](https://github.com/rdunc/RyBot/issues/new) and let me know what's going on.
-
-## Future of RyBot
-My goal is to make this a pretty nice base for anybody wanting a custom bot for their channel. I hope that this gives you a nice base to work off of and improve. If you have any questions feel free to get in contact with me. If you do use this as a base, make sure you include the LICENSE file.
